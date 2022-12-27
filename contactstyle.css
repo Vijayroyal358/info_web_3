@@ -200,7 +200,7 @@ section{
     padding: 15px 0;
     color: rgb(0, 0, 0);
     font-weight: 500;
-    font-size: 13px;
+    font-size:large;
     box-shadow: 0 1px 4px 0 rgba(1, 1, 70, 0.596);
 }
 .table_cell {
@@ -348,6 +348,9 @@ section{
     section{
         padding:2rem;
     }
+    .table_row{
+        font-size: 14px;
+   }
 
 }
 
